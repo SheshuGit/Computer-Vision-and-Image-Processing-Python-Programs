@@ -100,7 +100,6 @@ Additional resources and images for testing can be found in the following direct
 - **apple**
 - **cosine**
 - **edgeD**
-- **insurance2**
 - **LowContrastImg**
 - **noisysaltpepper**
 - **rubik**
